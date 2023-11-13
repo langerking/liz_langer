@@ -2,7 +2,8 @@ h1, h2, div {
   text-align: center;
 }
 
-img {
+#cb {
   align-self:auto;
+  max-width: 200%;
+  height: auto;
 }
-
