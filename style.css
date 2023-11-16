@@ -2,6 +2,12 @@ h1, h2, div {
   text-align: center;
 }
 
+ul {
+  list-style-position: inside;
+  display: inline-block;
+  margin-left:35%;
+}
+
 #cb {
   align-self:auto;
   max-width: 200%;
